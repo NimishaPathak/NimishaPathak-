@@ -43,5 +43,5 @@ in Playwright TypeScript framework development.
 | [OpenCart E-Commerce](https://github.com/NimishaPathak/qa-opencart-manual-testing) | E-Commerce | 80 | ✅ Complete |
 
 ## Connect
-[![LinkedIn](https://www.linkedin.com/in/nimisha-pathak-6099a7364/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/nimisha-pathak-6099a7364/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/NimishaPathak)
